@@ -1,0 +1,70 @@
+hr{
+
+width: 100%;
+height: 70px;
+background: rgb(131, 131, 206);
+
+
+}
+.vendas{
+
+margin-left: 40%;
+margin-top: -05%;
+color: white;
+
+}
+.contatos{
+margin-left: 50%;
+margin-top:-00058px;
+color: white;
+
+}
+
+.titulo{
+text-align: center;
+
+
+
+}
+
+.subtitulo{
+text-align: center;
+
+
+
+}
+
+.fiat-logo{
+
+margin-top: 10%;
+margin-left: 35%;
+
+}
+.clique-fiat{
+text-align: center;
+
+
+}
+
+
+.ford-logo{
+margin-left: 31%;
+
+
+}
+.clique-ford{
+text-align: center;
+
+
+
+}
+.volks-logo{
+
+margin-left: 40%;
+
+}
+.clique-volks{
+text-align: center;
+
+
+}
